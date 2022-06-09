@@ -13,7 +13,7 @@ In May of 2021 I enrolled in Boise Codeworks with hopes to kick off the beginnin
 🖨 - 3d printing, a lot of "practical" ABS and TPU parts for drones </br>
 🕹 - Games, competetive FPS, Kerbal Space Program </br>
 🪐 - Space travel, Sci-Fi, rocket launches 🚀 </br> 
-🎤 - Comedy - lifetime Conan O'brien fan. </br>
+🎤 - Comedy - lifetime Conan O'brien and similar fan. </br>
 
 
 
