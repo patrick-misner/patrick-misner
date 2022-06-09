@@ -1,4 +1,4 @@
-### My bio
+### Bio
 
 After over a decade of hard work in the IT world it is time for me to try something new. I have always enjoyed scripting and automation, working with databases and editing the open-source code I could for some projects in IT. 
 
