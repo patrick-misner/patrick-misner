@@ -8,7 +8,7 @@ In May of 2021 I enrolled in Boise Codeworks with hopes to kick off the beginnin
 
 ### Interests: 
 
-🎸 - Playing music, I have played guitar and bass and toured the NW in several bands
+🎸 - Playing music, I have played guitar and bass and toured the NW in several bands.  return
 🛩 - FPV drones and planes. I have crashed and recovered a plane several miles from launch.
 🖨 - 3d printing, a lot of "practical" ABS and TPU parts for drones
 🕹 - Games, competetive FPS, Kerbal Space Program
