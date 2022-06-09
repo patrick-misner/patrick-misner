@@ -2,7 +2,7 @@
 
 After over a decade of hard work in the IT world it is time for me to try something new. I have always enjoyed scripting and automation, working with databases and editing the open-source code I could for some projects in IT. 
 
-In May of 2021 I started attending Boise Codeworks in hopes to kick off the beginning of a serious career change. I wanted to really push myself to learn the fundamentals and the modern architecture developers are using in the professional world. I am incredibly excited to start working in a new career.
+In May of 2021 I started attending Boise Codeworks in hopes to kick off the beginning of a serious career change. I wanted to really push myself to learn the fundamentals and the modern architecture developers are using in the professional world. I am determined and excited to start working as a developer.
 
 <!--
 **patrick-misner/patrick-misner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
