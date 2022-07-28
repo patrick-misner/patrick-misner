@@ -8,7 +8,7 @@ In May of 2022 I enrolled in Boise Codeworks with hopes to kick off the beginnin
 
 ### Interests: 
 
-Playing music, FPV (first-person-view camera) drones and planes, PC games, competetive FPS, Space travel, Sci-Fi,
+Musician, FPV (first-person-view camera) drones and planes, PC games, competetive FPS, Space travel, Sci-Fi,
 
 
 
