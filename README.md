@@ -4,9 +4,10 @@ After over a decade of hard work in the IT world it is time for me to try someth
 
 In May of 2022 I enrolled in Boise Codeworks with hopes to kick off the beginning of a serious career change. I wanted to really push myself to learn the fundamentals and the modern architecture developers are using in the professional world. I am determined and excited to start working as a developer.
 
-### Resume
+### Links
 
-[Resume]
+[Linked In](https://www.linkedin.com/in/patrick-misner)
+[Website](https://patrick-misner.github.io)
 
 ### Interests: 
 
