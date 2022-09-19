@@ -6,7 +6,7 @@ In May of 2022 I enrolled in Boise Codeworks with hopes to kick off the beginnin
 
 ### Links
 
-[Linked In](https://www.linkedin.com/in/patrick-misner)
+[Linked In](https://www.linkedin.com/in/patrick-misner)<br>
 [Website](https://patrick-misner.github.io)
 
 ### Interests: 
