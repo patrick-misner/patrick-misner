@@ -1,8 +1,8 @@
 ## Bio
 
-After over a decade of hard work in the IT world it is time for me to try something new. I have always enjoyed scripting and automation, working with databases and editing the open-source code I could for some projects in IT. 
+After over a decade of hard work in the world of IT support, I embarked on a journey to embrace new challenges. I find joy in creating and optimizing processes, scripting, automation, and diving into databases. I've always been eager to tinker with open-source code for various IT projects.
 
-In May of 2022 I enrolled in Boise Codeworks with hopes to kick off the beginning of a serious career change. I wanted to really push myself to learn the fundamentals and the modern architecture developers are using in the professional world. I am determined and excited to start working as a developer.
+In May 2022, I enrolled in Boise Codeworks to strengthen my foundations and immerse myself in the modern architecture developers use in the professional world. I am determined and excited to leverage my experience and knowledge to contribute as an IT support/administration specialist or a software developer.
 
 ### Links
 
