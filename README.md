@@ -1,8 +1,7 @@
 ## Bio
+With over a decade of dedicated experience in IT support, I have developed a deep passion for creating and optimizing processes, scripting, automation, and working with databases. My enthusiasm for IT extends to exploring and leveraging various technologies for diverse projects.
 
-After over a decade of hard work in the world of IT support, I embarked on a journey to embrace new challenges. I find joy in creating and optimizing processes, scripting, automation, and diving into databases. I've always been eager to tinker with open-source code for various IT projects.
-
-In May 2022, I enrolled in Boise Codeworks to strengthen my foundations and immerse myself in the modern architecture developers use in the professional world. I am determined and excited to leverage my experience and knowledge to contribute as an IT support/administration specialist or a software developer.
+I am eager to continue building on this extensive background and to apply my skills in IT support, administration, or other technology related roles. I am committed to contributing effectively and growing within the IT field for the long term, bringing a wealth of practical knowledge and a proactive mindset to any opportunity.
 
 ### Links
 
