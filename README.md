@@ -1,5 +1,5 @@
 ## Bio
-With over a decade of dedicated experience in IT support, I have developed a deep passion for creating and optimizing processes, scripting, automation, and working with databases. My enthusiasm for IT extends to exploring and leveraging various technologies for diverse projects.
+With over a decade of dedicated experience in IT support, I have developed a deep passion for creating and optimizing processes, solving technical problems and documenting solutions and configurations. My enthusiasm for IT extends to exploring and leveraging various technologies for diverse projects.
 
 I am eager to continue building on this extensive background and to apply my skills in IT support, administration, or other technology related roles. I am committed to contributing effectively and growing within the IT field for the long term, bringing a wealth of practical knowledge and a proactive mindset to any opportunity.
 
